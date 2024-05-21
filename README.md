@@ -66,10 +66,17 @@
 
 ## Top Open Source -
 
-[![Portfolio-Website](https://github.com/manishkmr49/Portfolio-Manish-Kumar.app/api/pin/?username=manishkmr49&repo=Portfolio-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Portfolio-Website)
-[![Chirag Jain Readme](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=chiragjain307&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/chiragjain307)
-[![Weather-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Weather-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Weather-WebApp)
-[![Todo-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Todo-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Todo-WebApp)
+[![Portfolio-Manish-Kumar](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Portfolio-Manish-Kumar&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Portfolio-Manish-Kumar)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://manishkmr49.github.io/Portfolio-Manish-Kumar/)
+
+[![Rock-Paper-Scissors-Game](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=manishkmr49-Rock-Paper-Scissors-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/manishkmr49-Rock-Paper-Scissors-game)
+[![Live Rock-Paper-Scissors Game](https://img.shields.io/badge/Live_Game-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://manishkmr49.github.io/manishkmr49-Rock-Paper-Scissors-game/)
+
+[![Java-DSA-Questions](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Java-DSA-Questions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Java-DSA-Questions)
+
+[![Advanced-Java](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Advanced-Java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Advanced-Java)
+
+
 
 <p align="left">
   <a href="https://github.com/manishkmr49?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -83,14 +90,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/chiragjain307">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain307&theme=radical&border=7F3FBF&background=0D1117" alt="Chirag's GitHub streak"/>
+  <a href="https://github.com/manishkmr49">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkmr49&theme=radical&border=7F3FBF&background=0D1117" alt="Manish's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/chirag307">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragjain307&theme=radical" alt="Chirag's GitHub Contribution"/>
+  <a href="https://github.com/manishkmr49">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkmr49&theme=radical" alt="Manish's GitHub Contribution"/>
   </a>
 </p>
 
