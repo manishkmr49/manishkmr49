@@ -67,10 +67,8 @@
 ## Top Open Source -
 
 [![Portfolio-Manish-Kumar](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Portfolio-Manish-Kumar&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Portfolio-Manish-Kumar)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://manishkmr49.github.io/Portfolio-Manish-Kumar/)
 
 [![Rock-Paper-Scissors-Game](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=manishkmr49-Rock-Paper-Scissors-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/manishkmr49-Rock-Paper-Scissors-game)
-[![Live Rock-Paper-Scissors Game](https://img.shields.io/badge/Live_Game-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://manishkmr49.github.io/manishkmr49-Rock-Paper-Scissors-game/)
 
 [![Java-DSA-Questions](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Java-DSA-Questions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Java-DSA-Questions)
 
@@ -108,4 +106,4 @@
 </a>
 
 
-![Manish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishkmr49&custom_title=Chirag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Manish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishkmr49&custom_title=Manish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
