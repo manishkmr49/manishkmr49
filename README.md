@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manish Kumar and I'm a Final Year Student pursuing a Bachelor of Technology in Information Technology from Asansol Engineering College.</p>
+<p align="left">My Name is Manish Kumar and I'm a Final Year Student pursuing a Bachelor of Technology in Information Technology from Asansol Engineering College.</p>
 
 ###
 
