@@ -7,7 +7,7 @@
 
 
 <p align="center">
-        <samp>「 I'm a Final Year Student pursuing a Bachelor of Technology in Information Technology from Asansol Engineering College.」
+        <samp>「 I'm a Third Year Student pursuing a Bachelor of Technology in Information Technology from Asansol Engineering College.」
         </samp>
 </p>
 
