@@ -1,5 +1,3 @@
-![Programming-Lang](https://github.com/manishkmr49/manishkmr49/assets/110106315/4e2d97dc-5b0a-4fa7-8220-ab02dba6ff67)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi 👋, I'm
