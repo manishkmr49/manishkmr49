@@ -39,10 +39,10 @@
  
 <p>
 
- ✌️ &emsp; Enjoy to do programming and love to see the output <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Crafting code is enjoyable, and I love observing the end results <br/><br/>
+ ❤️ &emsp; I'm passionate about coding and eager to learn new capabilities <br/><br/>
  📧 &emsp; Reach me anytime: manish19464@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/manishkmr49//issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/manishkmr49/issues)
 
 </p>
 
