@@ -40,9 +40,7 @@
 <br/>
 <br/>
 
-## Use To Code
-
-## Used Technologies
+## Skills & Technologies
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,6 +54,22 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+## Coding Profiles
+
+<p align="center">
+    <a href="https://leetcode.com/u/manishkmr49/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/manishkmr49/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://www.naukri.com/code360/profile/manishkmr03" target="_blank">
+        <img src="https://img.shields.io/badge/Coding%20Ninjas-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+    </a>
+</p>
 
 <br/>
 
