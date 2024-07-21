@@ -1,4 +1,4 @@
-<!-- Intro -->
+<!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm
         <b><a target="_blank" href="https://manishkmr49.github.io/Portfolio-Manish-Kumar/">Manish Kumar</a></b>
