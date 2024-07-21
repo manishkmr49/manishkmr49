@@ -75,11 +75,14 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://buymeacoffee.com/manish77">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manish Kumar" />
+  <a href="https://www.paypal.com/paypalme/manishkmr49">
+    <img align="left" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" height="50" alt="PayPal" />
+  </a>
+  <a href="https://ko-fi.com/manishkmr49" style="margin-left: 10px;">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" alt="Ko-fi" />
   </a>
 </p>
-<br><br>
+<br><br><br>
 
 <br/>
 <hr/>
