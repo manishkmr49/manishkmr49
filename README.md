@@ -59,22 +59,6 @@
 
 <br/>
 
-## Top Open Source Repositories
-
-[![E-Learning-Website](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=E-Learning-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/E-Learning-Website)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Rock-Paper-Scissors-Game](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Rock-Paper-Scissors-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Rock-Paper-Scissors-game)
-
-[![Java-DSA-Questions](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Java-DSA-Questions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Java-DSA-Questions)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Advanced-Java](https://github-readme-stats.vercel.app/api/pin/?username=manishkmr49&repo=Advanced-Java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manishkmr49/Advanced-Java)
-
-<p align="left">
-  <a href="https://github.com/manishkmr49?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-</p>
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://buymeacoffee.com/manish77">
