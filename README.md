@@ -1,4 +1,4 @@
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm
         <b><a target="_blank" href="https://manishkmr49.github.io/Portfolio-Manish-Kumar/">Manish Kumar</a></b>
@@ -29,9 +29,6 @@
 <!-- About Section -->
 # About Me
 
-<p align="center">
-    <img src="https://img.shields.io/badge/👨‍💻-Software_Developer-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 <p align="center">
     ✌️ &emsp; Crafting code is enjoyable, and I love observing the end results <br/><br/>
     ❤️ &emsp; I'm passionate about coding and eager to learn new capabilities <br/><br/>
