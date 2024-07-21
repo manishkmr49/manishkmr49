@@ -40,9 +40,7 @@
 <br/>
 <br/>
 
-## Use To Code
-
-## Used Technologies
+## Skills & Technologies
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,15 +57,22 @@
 
 <br/>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://buymeacoffee.com/manish77">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manish Kumar" />
-  </a>
+## Coding Profiles
+
+<p align="center">
+    <a href="https://leetcode.com/u/manishkmr49/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/manishkmr49/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://www.naukri.com/code360/profile/manishkmr03" target="_blank">
+        <img src="https://img.shields.io/badge/Coding%20Ninjas-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+    </a>
 </p>
-<br><br>
 
 <br/>
+
 <hr/>
 <br/>
 
