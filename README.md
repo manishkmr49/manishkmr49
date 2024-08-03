@@ -30,15 +30,16 @@
 # About Me
 
 <p>
- ✌️ &emsp; I find joy in crafting code and love seeing the results come to life. <br/><br/>
- ❤️ &emsp; Passionate about coding and always eager to learn new skills. <br/><br/>
- 📧 &emsp; Feel free to reach out via email: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
- 💬 &emsp; Have questions or want to chat? Open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or drop a message.
+ 👨‍💻 &emsp; I thrive on creating code and take satisfaction in seeing projects come to fruition. <br/><br/>
+ 🌟 &emsp; I am dedicated to technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
+ 📧 &emsp; For any questions or professional inquiries, please contact me at: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
+ 🛠️ &emsp; Have feedback or need assistance? Feel free to open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or get in touch.
 </p>
 
 <br/>
 <br/>
 <br/>
+
 
 
 ## Skills & Technologies
