@@ -33,7 +33,7 @@
  👨‍💻 &emsp; I thrive on creating code and take satisfaction in seeing projects come to fruition. <br/><br/>
  🌟 &emsp; I am dedicated to technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
  📧 &emsp; For any questions or professional inquiries, please contact me at: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
- 🛠️ &emsp; Have feedback or need assistance? Feel free to open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or get in touch.
+ 💬 &emsp; If you have questions or feedback, feel free to open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or leave a message.
 </p>
 
 <br/>
