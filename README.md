@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <samp>「 I'm a Final Year Student pursuing a Bachelor of Technology in Information Technology from Asansol Engineering College.」
+    <samp>「 Final Year B.Tech Student in Information Technology at Asansol Engineering College. Passionate about technology, coding, and continuous learning. 」
     </samp>
 </p>
 
