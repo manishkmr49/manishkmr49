@@ -33,13 +33,12 @@
  ✌️ &emsp; I find joy in crafting code and love seeing the results come to life. <br/><br/>
  ❤️ &emsp; Passionate about coding and always eager to learn new skills. <br/><br/>
  📧 &emsp; Feel free to reach out via email: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
- 💬 &emsp; Have questions or want to chat? Open an issue or drop a message [here](https://github.com/manishkmr49/contact-repository-).
+ 💬 &emsp; Have questions or want to chat? Open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or drop a message.
 </p>
 
 <br/>
 <br/>
 <br/>
-
 
 
 ## Skills & Technologies
