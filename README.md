@@ -27,18 +27,19 @@
 <br />
 
 <!-- About Section -->
-# About me
+# About Me
 
 <p>
- ✌️ &emsp; Crafting code is enjoyable, and I love observing the end results <br/><br/>
- ❤️ &emsp; I'm passionate about coding and eager to learn new capabilities <br/><br/>
- 📧 &emsp; Reach me anytime: manish19464@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/manishkmr49/issues)
+ ✌️ &emsp; I find joy in crafting code and love seeing the results come to life. <br/><br/>
+ ❤️ &emsp; Passionate about coding and always eager to learn new skills. <br/><br/>
+ 📧 &emsp; Feel free to reach out: manish19464@gmail.com <br/><br/>
+ 💬 &emsp; Have questions or want to chat? Drop them [here](https://github.com/manishkmr49/issues).
 </p>
 
 <br/>
 <br/>
 <br/>
+
 
 ## Skills & Technologies
 
